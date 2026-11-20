@@ -1,0 +1,880 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1830 1240" width="1830" height="1240">
+<rect x="0" y="0" width="1830" height="1240" fill="#FFFFFF"/>
+<rect x="40.0" y="70.0" width="430.0" height="230.0" rx="6" fill="#FCFDFE" stroke="#C9CDD4" stroke-width="1.0" stroke-dasharray="7 5"/>
+<rect x="40.0" y="77.0" width="3.2" height="15.0" rx="0" fill="#1F4E9C" stroke="#1F4E9C" stroke-width="0"/>
+<text x="54.0" y="89.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="11.5" fill="#12325F" font-weight="500" text-anchor="start">① 音频输入</text>
+<text x="458.0" y="89.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#6B7280" font-weight="400" text-anchor="end">J1 / J2</text>
+<rect x="70.0" y="128.0" width="46.0" height="104.0" rx="2" fill="#FFFFFF" stroke="#A33A3A" stroke-width="1.2"/>
+<text x="93.0" y="120.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9" fill="#2B2B2B" font-weight="400" text-anchor="middle">J1 音频</text>
+<text x="96.0" y="151.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="middle">L</text>
+<line x1="116.0" y1="148.0" x2="138.0" y2="148.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<text x="96.0" y="175.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="middle">R</text>
+<line x1="116.0" y1="172.0" x2="138.0" y2="172.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<text x="96.0" y="199.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="middle">M</text>
+<line x1="116.0" y1="196.0" x2="138.0" y2="196.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<text x="96.0" y="223.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="middle">G</text>
+<line x1="116.0" y1="220.0" x2="138.0" y2="220.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<polygon points="138.0,148.0 145.0,141.0 157.4,141.0 157.4,155.0 145.0,155.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="147.5" y="151.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">L</text>
+<polygon points="138.0,172.0 145.0,165.0 157.4,165.0 157.4,179.0 145.0,179.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="147.5" y="175.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">R</text>
+<line x1="116.0" y1="196.0" x2="316.0" y2="196.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="116.0" y1="220.0" x2="148.0" y2="220.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="148.0" y1="220.0" x2="148.0" y2="227.0" stroke="#2B2B2B" stroke-width="1.1"/>
+<line x1="140.0" y1="227.0" x2="156.0" y2="227.0" stroke="#2B2B2B" stroke-width="1.4"/>
+<line x1="143.0" y1="230.0" x2="153.0" y2="230.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="146.0" y1="233.0" x2="150.0" y2="233.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<rect x="338.0" y="128.0" width="46.0" height="104.0" rx="2" fill="#FFFFFF" stroke="#A33A3A" stroke-width="1.2"/>
+<text x="361.0" y="120.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9" fill="#2B2B2B" font-weight="400" text-anchor="middle">J2 输入测试</text>
+<text x="361.0" y="151.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#B04A4A" font-weight="400" text-anchor="middle">1</text>
+<line x1="338.0" y1="148.0" x2="316.0" y2="148.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<text x="361.0" y="175.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#B04A4A" font-weight="400" text-anchor="middle">2</text>
+<line x1="338.0" y1="172.0" x2="316.0" y2="172.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<text x="361.0" y="199.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#B04A4A" font-weight="400" text-anchor="middle">3</text>
+<line x1="338.0" y1="196.0" x2="316.0" y2="196.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<text x="361.0" y="223.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#B04A4A" font-weight="400" text-anchor="middle">4</text>
+<line x1="338.0" y1="220.0" x2="316.0" y2="220.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<polygon points="316.0,148.0 309.0,141.0 296.6,141.0 296.6,155.0 309.0,155.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="306.5" y="151.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">L</text>
+<polygon points="316.0,172.0 309.0,165.0 296.6,165.0 296.6,179.0 309.0,179.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="306.5" y="175.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">R</text>
+<line x1="316.0" y1="220.0" x2="294.0" y2="220.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="294.0" y1="220.0" x2="294.0" y2="227.0" stroke="#2B2B2B" stroke-width="1.1"/>
+<line x1="286.0" y1="227.0" x2="302.0" y2="227.0" stroke="#2B2B2B" stroke-width="1.4"/>
+<line x1="289.0" y1="230.0" x2="299.0" y2="230.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="292.0" y1="233.0" x2="296.0" y2="233.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<text x="68.0" y="266.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#6B7280" font-weight="400" text-anchor="start">J1 为 3.5mm 音频座（L / R / M / G 四端），J2 为同网络测试排针。</text>
+<rect x="500.0" y="70.0" width="580.0" height="230.0" rx="6" fill="#FCFDFE" stroke="#C9CDD4" stroke-width="1.0" stroke-dasharray="7 5"/>
+<rect x="500.0" y="77.0" width="3.2" height="15.0" rx="0" fill="#1F4E9C" stroke="#1F4E9C" stroke-width="0"/>
+<text x="514.0" y="89.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="11.5" fill="#12325F" font-weight="500" text-anchor="start">② 一键静音 / K歌门控（U1）</text>
+<text x="1068.0" y="89.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#6B7280" font-weight="400" text-anchor="end">CD4066BE</text>
+<rect x="608.0" y="118.0" width="344.0" height="162.0" rx="2" fill="#FFFFFF" stroke="#A33A3A" stroke-width="1.3"/>
+<text x="780.0" y="103.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="11" fill="#2B2B2B" font-weight="500" text-anchor="middle">U1</text>
+<text x="780.0" y="115.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="10" fill="#2B2B2B" font-weight="400" text-anchor="middle">CD4066BE</text>
+<line x1="586.0" y1="142.0" x2="608.0" y2="142.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="602.0" y="138.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">1</text>
+<text x="613.0" y="145.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">SIG_A_IN/OUT</text>
+<line x1="952.0" y1="142.0" x2="974.0" y2="142.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="958.0" y="138.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">14</text>
+<text x="947.0" y="145.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">VDD</text>
+<line x1="586.0" y1="164.0" x2="608.0" y2="164.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="602.0" y="160.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">2</text>
+<text x="613.0" y="167.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">SIG_A_OUT/IN</text>
+<line x1="952.0" y1="164.0" x2="974.0" y2="164.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="958.0" y="160.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">13</text>
+<text x="947.0" y="167.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">CONTROL_A</text>
+<line x1="586.0" y1="186.0" x2="608.0" y2="186.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="602.0" y="182.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">3</text>
+<text x="613.0" y="189.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">SIG_B_OUT/IN</text>
+<line x1="952.0" y1="186.0" x2="974.0" y2="186.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="958.0" y="182.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">12</text>
+<text x="947.0" y="189.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">CONTROL_D</text>
+<line x1="586.0" y1="208.0" x2="608.0" y2="208.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="602.0" y="204.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">4</text>
+<text x="613.0" y="211.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">SIG_B_IN/OUT</text>
+<line x1="952.0" y1="208.0" x2="974.0" y2="208.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="958.0" y="204.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">11</text>
+<text x="947.0" y="211.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">SIG_D_IN/OUT</text>
+<line x1="586.0" y1="230.0" x2="608.0" y2="230.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="602.0" y="226.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">5</text>
+<text x="613.0" y="233.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">CONTROL_B</text>
+<line x1="952.0" y1="230.0" x2="974.0" y2="230.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="958.0" y="226.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">10</text>
+<text x="947.0" y="233.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">SIG_D_OUT/IN</text>
+<line x1="586.0" y1="252.0" x2="608.0" y2="252.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="602.0" y="248.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">6</text>
+<text x="613.0" y="255.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">CONTROL_C</text>
+<line x1="952.0" y1="252.0" x2="974.0" y2="252.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="958.0" y="248.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">9</text>
+<text x="947.0" y="255.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">SIG_C_OUT/IN</text>
+<line x1="586.0" y1="274.0" x2="608.0" y2="274.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="602.0" y="270.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">7</text>
+<text x="613.0" y="277.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">VSS</text>
+<line x1="952.0" y1="274.0" x2="974.0" y2="274.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="958.0" y="270.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">8</text>
+<text x="947.0" y="277.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">SIG_C_IN/OUT</text>
+<polygon points="586.0,142.0 579.0,135.0 566.6,135.0 566.6,149.0 579.0,149.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="576.5" y="145.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">L</text>
+<polygon points="586.0,164.0 579.0,157.0 560.2,157.0 560.2,171.0 579.0,171.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="576.5" y="167.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">LI</text>
+<polygon points="586.0,186.0 579.0,179.0 566.6,179.0 566.6,193.0 579.0,193.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="576.5" y="189.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">R</text>
+<polygon points="586.0,208.0 579.0,201.0 560.2,201.0 560.2,215.0 579.0,215.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="576.5" y="211.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">RI</text>
+<polygon points="586.0,230.0 579.0,223.0 560.2,223.0 560.2,237.0 579.0,237.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="576.5" y="233.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">A1</text>
+<polygon points="586.0,252.0 579.0,245.0 553.8,245.0 553.8,259.0 579.0,259.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="576.5" y="255.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">B10</text>
+<line x1="586.0" y1="274.0" x2="564.0" y2="274.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="564.0" y1="274.0" x2="564.0" y2="281.0" stroke="#2B2B2B" stroke-width="1.1"/>
+<line x1="556.0" y1="281.0" x2="572.0" y2="281.0" stroke="#2B2B2B" stroke-width="1.4"/>
+<line x1="559.0" y1="284.0" x2="569.0" y2="284.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="562.0" y1="287.0" x2="566.0" y2="287.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<polygon points="974.0,142.0 981.0,135.0 1019.0,135.0 1019.0,149.0 981.0,149.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="983.5" y="145.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">+3.3V</text>
+<polygon points="974.0,164.0 981.0,157.0 999.8,157.0 999.8,171.0 981.0,171.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="983.5" y="167.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">A1</text>
+<line x1="969.0" y1="181.0" x2="979.0" y2="191.0" stroke="#2E9E5B" stroke-width="1.5"/>
+<line x1="969.0" y1="191.0" x2="979.0" y2="181.0" stroke="#2E9E5B" stroke-width="1.5"/>
+<line x1="969.0" y1="203.0" x2="979.0" y2="213.0" stroke="#2E9E5B" stroke-width="1.5"/>
+<line x1="969.0" y1="213.0" x2="979.0" y2="203.0" stroke="#2E9E5B" stroke-width="1.5"/>
+<line x1="969.0" y1="225.0" x2="979.0" y2="235.0" stroke="#2E9E5B" stroke-width="1.5"/>
+<line x1="969.0" y1="235.0" x2="979.0" y2="225.0" stroke="#2E9E5B" stroke-width="1.5"/>
+<polygon points="974.0,252.0 981.0,245.0 999.8,245.0 999.8,259.0 981.0,259.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="983.5" y="255.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">A0</text>
+<polygon points="974.0,274.0 981.0,267.0 1006.2,267.0 1006.2,281.0 981.0,281.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="983.5" y="277.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">MIC</text>
+<text x="528.0" y="292.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#6B7280" font-weight="400" text-anchor="start">A 组（A1）：左右主通路串行通断 → 一键静音；C 组（B10）：MIC→PA0 门控 → K歌支路使能；D 组未用。</text>
+<rect x="1110.0" y="70.0" width="680.0" height="230.0" rx="6" fill="#FCFDFE" stroke="#C9CDD4" stroke-width="1.0" stroke-dasharray="7 5"/>
+<rect x="1110.0" y="77.0" width="3.2" height="15.0" rx="0" fill="#1F4E9C" stroke="#1F4E9C" stroke-width="0"/>
+<text x="1124.0" y="89.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="11.5" fill="#12325F" font-weight="500" text-anchor="start">③ 电源</text>
+<text x="1778.0" y="89.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#6B7280" font-weight="400" text-anchor="end">5V → 3.3V</text>
+<polygon points="1150.0,180.0 1157.0,173.0 1182.2,173.0 1182.2,187.0 1157.0,187.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1159.5" y="183.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">+5V</text>
+<line x1="1182.2" y1="180.0" x2="1236.0" y2="180.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<circle cx="1196.0" cy="180.0" r="2.6" fill="#1B8A5A"/>
+<line x1="1196.0" y1="180.0" x2="1196.0" y2="201.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="1196.0" y1="201.0" x2="1196.0" y2="218.5" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="1196.0" y1="225.5" x2="1196.0" y2="243.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="1187.0" y1="218.5" x2="1205.0" y2="218.5" stroke="#A33A3A" stroke-width="1.7"/>
+<line x1="1187.0" y1="225.5" x2="1205.0" y2="225.5" stroke="#A33A3A" stroke-width="1.7"/>
+<text x="1208.0" y="221.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="start">C13</text>
+<text x="1208.0" y="234.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="start">10u</text>
+<text x="1182.0" y="219.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9" fill="#A33A3A" font-weight="400" text-anchor="middle">+</text>
+<line x1="1196.0" y1="243.0" x2="1196.0" y2="250.0" stroke="#2B2B2B" stroke-width="1.1"/>
+<line x1="1188.0" y1="250.0" x2="1204.0" y2="250.0" stroke="#2B2B2B" stroke-width="1.4"/>
+<line x1="1191.0" y1="253.0" x2="1201.0" y2="253.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="1194.0" y1="256.0" x2="1198.0" y2="256.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<rect x="1258.0" y="140.0" width="128.0" height="88.0" rx="2" fill="#FFFFFF" stroke="#A33A3A" stroke-width="1.3"/>
+<text x="1322.0" y="125.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="11" fill="#2B2B2B" font-weight="500" text-anchor="middle">U9</text>
+<text x="1322.0" y="137.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="10" fill="#2B2B2B" font-weight="400" text-anchor="middle">AMS1117-3.3</text>
+<line x1="1236.0" y1="180.0" x2="1258.0" y2="180.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="1252.0" y="176.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">3</text>
+<text x="1263.0" y="183.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">VIN</text>
+<line x1="1386.0" y1="180.0" x2="1408.0" y2="180.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="1392.0" y="176.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">2</text>
+<text x="1381.0" y="183.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">VOUT</text>
+<text x="1322.0" y="222.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="middle">ADJ/GND</text>
+<text x="1316.0" y="237.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">1</text>
+<line x1="1322.0" y1="228.0" x2="1322.0" y2="246.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="1322.0" y1="246.0" x2="1322.0" y2="253.0" stroke="#2B2B2B" stroke-width="1.1"/>
+<line x1="1314.0" y1="253.0" x2="1330.0" y2="253.0" stroke="#2B2B2B" stroke-width="1.4"/>
+<line x1="1317.0" y1="256.0" x2="1327.0" y2="256.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="1320.0" y1="259.0" x2="1324.0" y2="259.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="1408.0" y1="180.0" x2="1478.0" y2="180.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<circle cx="1440.0" cy="180.0" r="2.6" fill="#1B8A5A"/>
+<line x1="1440.0" y1="180.0" x2="1440.0" y2="201.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="1440.0" y1="201.0" x2="1440.0" y2="218.5" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="1440.0" y1="225.5" x2="1440.0" y2="243.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="1431.0" y1="218.5" x2="1449.0" y2="218.5" stroke="#A33A3A" stroke-width="1.7"/>
+<line x1="1431.0" y1="225.5" x2="1449.0" y2="225.5" stroke="#A33A3A" stroke-width="1.7"/>
+<text x="1452.0" y="221.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="start">C12</text>
+<text x="1452.0" y="234.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="start">10u</text>
+<text x="1426.0" y="219.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9" fill="#A33A3A" font-weight="400" text-anchor="middle">+</text>
+<line x1="1440.0" y1="243.0" x2="1440.0" y2="250.0" stroke="#2B2B2B" stroke-width="1.1"/>
+<line x1="1432.0" y1="250.0" x2="1448.0" y2="250.0" stroke="#2B2B2B" stroke-width="1.4"/>
+<line x1="1435.0" y1="253.0" x2="1445.0" y2="253.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="1438.0" y1="256.0" x2="1442.0" y2="256.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<polygon points="1478.0,180.0 1485.0,173.0 1523.0,173.0 1523.0,187.0 1485.0,187.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1487.5" y="183.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">+3.3V</text>
+<rect x="1565.0" y="125.0" width="96.0" height="132.0" rx="2" fill="#FFFFFF" stroke="#A33A3A" stroke-width="1.3"/>
+<text x="1613.0" y="110.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="11" fill="#2B2B2B" font-weight="500" text-anchor="middle">U8</text>
+<text x="1613.0" y="122.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="10" fill="#2B2B2B" font-weight="400" text-anchor="middle">USB 供电</text>
+<line x1="1543.0" y1="148.0" x2="1565.0" y2="148.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="1559.0" y="144.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">1</text>
+<text x="1570.0" y="151.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">GND</text>
+<line x1="1543.0" y1="170.0" x2="1565.0" y2="170.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="1559.0" y="166.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">2</text>
+<text x="1570.0" y="173.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">ID</text>
+<line x1="1543.0" y1="192.0" x2="1565.0" y2="192.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="1559.0" y="188.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">3</text>
+<text x="1570.0" y="195.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">D+</text>
+<line x1="1543.0" y1="214.0" x2="1565.0" y2="214.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="1559.0" y="210.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">4</text>
+<text x="1570.0" y="217.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">D-</text>
+<line x1="1543.0" y1="236.0" x2="1565.0" y2="236.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="1559.0" y="232.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">5</text>
+<text x="1570.0" y="239.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">VBUS</text>
+<line x1="1543.0" y1="148.0" x2="1523.0" y2="148.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="1523.0" y1="148.0" x2="1523.0" y2="155.0" stroke="#2B2B2B" stroke-width="1.1"/>
+<line x1="1515.0" y1="155.0" x2="1531.0" y2="155.0" stroke="#2B2B2B" stroke-width="1.4"/>
+<line x1="1518.0" y1="158.0" x2="1528.0" y2="158.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="1521.0" y1="161.0" x2="1525.0" y2="161.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="1538.0" y1="165.0" x2="1548.0" y2="175.0" stroke="#2E9E5B" stroke-width="1.5"/>
+<line x1="1538.0" y1="175.0" x2="1548.0" y2="165.0" stroke="#2E9E5B" stroke-width="1.5"/>
+<line x1="1538.0" y1="187.0" x2="1548.0" y2="197.0" stroke="#2E9E5B" stroke-width="1.5"/>
+<line x1="1538.0" y1="197.0" x2="1548.0" y2="187.0" stroke="#2E9E5B" stroke-width="1.5"/>
+<line x1="1538.0" y1="209.0" x2="1548.0" y2="219.0" stroke="#2E9E5B" stroke-width="1.5"/>
+<line x1="1538.0" y1="219.0" x2="1548.0" y2="209.0" stroke="#2E9E5B" stroke-width="1.5"/>
+<polygon points="1543.0,236.0 1536.0,229.0 1510.8,229.0 1510.8,243.0 1536.0,243.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1533.5" y="239.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">+5V</text>
+<text x="1138.0" y="274.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#6B7280" font-weight="400" text-anchor="start">USB 取 5V；AMS1117-3.3（SOT-223，2 脚与散热片同为 VOUT）稳压。</text>
+<text x="1138.0" y="288.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#6B7280" font-weight="400" text-anchor="start">C13 / C12 为 10µF 输入输出滤波。</text>
+<rect x="40.0" y="340.0" width="460.0" height="330.0" rx="6" fill="#FCFDFE" stroke="#C9CDD4" stroke-width="1.0" stroke-dasharray="7 5"/>
+<rect x="40.0" y="347.0" width="3.2" height="15.0" rx="0" fill="#1F4E9C" stroke="#1F4E9C" stroke-width="0"/>
+<text x="54.0" y="359.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="11.5" fill="#12325F" font-weight="500" text-anchor="start">④ 数字音量（U5 / U6）</text>
+<text x="488.0" y="359.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#6B7280" font-weight="400" text-anchor="end">MCP41010 ×2</text>
+<rect x="136.0" y="380.0" width="190.0" height="112.0" rx="2" fill="#FFFFFF" stroke="#A33A3A" stroke-width="1.3"/>
+<text x="231.0" y="365.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="11" fill="#2B2B2B" font-weight="500" text-anchor="middle">U5</text>
+<text x="231.0" y="377.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="10" fill="#2B2B2B" font-weight="400" text-anchor="middle">MCP41010</text>
+<line x1="114.0" y1="408.0" x2="136.0" y2="408.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="130.0" y="404.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">1</text>
+<text x="141.0" y="411.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">CS#</text>
+<line x1="114.0" y1="430.0" x2="136.0" y2="430.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="130.0" y="426.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">2</text>
+<text x="141.0" y="433.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">SCK</text>
+<line x1="114.0" y1="452.0" x2="136.0" y2="452.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="130.0" y="448.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">3</text>
+<text x="141.0" y="455.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">SI</text>
+<line x1="114.0" y1="476.0" x2="136.0" y2="476.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="130.0" y="472.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">8</text>
+<text x="141.0" y="479.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">VDD</text>
+<line x1="326.0" y1="408.0" x2="348.0" y2="408.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="332.0" y="404.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">5</text>
+<text x="321.0" y="411.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">PA0</text>
+<line x1="326.0" y1="430.0" x2="348.0" y2="430.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="332.0" y="426.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">6</text>
+<text x="321.0" y="433.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">PW0</text>
+<line x1="326.0" y1="452.0" x2="348.0" y2="452.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="332.0" y="448.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">7</text>
+<text x="321.0" y="455.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">PB0</text>
+<line x1="326.0" y1="476.0" x2="348.0" y2="476.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="332.0" y="472.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">4</text>
+<text x="321.0" y="479.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">VSS</text>
+<polygon points="114.0,408.0 107.0,401.0 88.2,401.0 88.2,415.0 107.0,415.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="104.5" y="411.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">A4</text>
+<polygon points="114.0,430.0 107.0,423.0 88.2,423.0 88.2,437.0 107.0,437.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="104.5" y="433.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">A5</text>
+<polygon points="114.0,452.0 107.0,445.0 88.2,445.0 88.2,459.0 107.0,459.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="104.5" y="455.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">A6</text>
+<polygon points="114.0,476.0 107.0,469.0 69.0,469.0 69.0,483.0 107.0,483.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="104.5" y="479.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">+3.3V</text>
+<line x1="343.0" y1="403.0" x2="353.0" y2="413.0" stroke="#2E9E5B" stroke-width="1.5"/>
+<line x1="343.0" y1="413.0" x2="353.0" y2="403.0" stroke="#2E9E5B" stroke-width="1.5"/>
+<polygon points="348.0,430.0 355.0,423.0 373.8,423.0 373.8,437.0 355.0,437.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="357.5" y="433.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">L2</text>
+<line x1="373.8" y1="452.0" x2="377.0" y2="452.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<rect x="377.0" y="445.5" width="42.0" height="13.0" rx="0" fill="#FFFFFF" stroke="#A33A3A" stroke-width="1.2"/>
+<text x="398.0" y="442.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">R8</text>
+<text x="398.0" y="470.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">5k</text>
+<line x1="423.0" y1="452.0" x2="440.5" y2="452.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="447.5" y1="452.0" x2="465.0" y2="452.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="440.5" y1="443.0" x2="440.5" y2="461.0" stroke="#A33A3A" stroke-width="1.7"/>
+<line x1="447.5" y1="443.0" x2="447.5" y2="461.0" stroke="#A33A3A" stroke-width="1.7"/>
+<text x="444.0" y="439.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">C3</text>
+<text x="444.0" y="472.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">1u</text>
+<line x1="465.0" y1="452.0" x2="468.0" y2="452.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<polygon points="468.0,452.0 475.0,445.0 493.8,445.0 493.8,459.0 475.0,459.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="477.5" y="455.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">LI</text>
+<line x1="348.0" y1="476.0" x2="362.0" y2="476.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="362.0" y1="476.0" x2="362.0" y2="483.0" stroke="#2B2B2B" stroke-width="1.1"/>
+<line x1="354.0" y1="483.0" x2="370.0" y2="483.0" stroke="#2B2B2B" stroke-width="1.4"/>
+<line x1="357.0" y1="486.0" x2="367.0" y2="486.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="360.0" y1="489.0" x2="364.0" y2="489.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<rect x="136.0" y="526.0" width="190.0" height="112.0" rx="2" fill="#FFFFFF" stroke="#A33A3A" stroke-width="1.3"/>
+<text x="231.0" y="511.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="11" fill="#2B2B2B" font-weight="500" text-anchor="middle">U6</text>
+<text x="231.0" y="523.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="10" fill="#2B2B2B" font-weight="400" text-anchor="middle">MCP41010</text>
+<line x1="114.0" y1="554.0" x2="136.0" y2="554.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="130.0" y="550.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">1</text>
+<text x="141.0" y="557.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">CS#</text>
+<line x1="114.0" y1="576.0" x2="136.0" y2="576.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="130.0" y="572.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">2</text>
+<text x="141.0" y="579.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">SCK</text>
+<line x1="114.0" y1="598.0" x2="136.0" y2="598.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="130.0" y="594.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">3</text>
+<text x="141.0" y="601.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">SI</text>
+<line x1="114.0" y1="622.0" x2="136.0" y2="622.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="130.0" y="618.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">8</text>
+<text x="141.0" y="625.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">VDD</text>
+<line x1="326.0" y1="554.0" x2="348.0" y2="554.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="332.0" y="550.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">5</text>
+<text x="321.0" y="557.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">PA0</text>
+<line x1="326.0" y1="576.0" x2="348.0" y2="576.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="332.0" y="572.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">6</text>
+<text x="321.0" y="579.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">PW0</text>
+<line x1="326.0" y1="598.0" x2="348.0" y2="598.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="332.0" y="594.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">7</text>
+<text x="321.0" y="601.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">PB0</text>
+<line x1="326.0" y1="622.0" x2="348.0" y2="622.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="332.0" y="618.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">4</text>
+<text x="321.0" y="625.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">VSS</text>
+<polygon points="114.0,554.0 107.0,547.0 88.2,547.0 88.2,561.0 107.0,561.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="104.5" y="557.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">A4</text>
+<polygon points="114.0,576.0 107.0,569.0 88.2,569.0 88.2,583.0 107.0,583.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="104.5" y="579.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">A5</text>
+<polygon points="114.0,598.0 107.0,591.0 88.2,591.0 88.2,605.0 107.0,605.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="104.5" y="601.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">A6</text>
+<polygon points="114.0,622.0 107.0,615.0 69.0,615.0 69.0,629.0 107.0,629.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="104.5" y="625.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">+3.3V</text>
+<line x1="343.0" y1="549.0" x2="353.0" y2="559.0" stroke="#2E9E5B" stroke-width="1.5"/>
+<line x1="343.0" y1="559.0" x2="353.0" y2="549.0" stroke="#2E9E5B" stroke-width="1.5"/>
+<polygon points="348.0,576.0 355.0,569.0 373.8,569.0 373.8,583.0 355.0,583.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="357.5" y="579.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">R2</text>
+<line x1="373.8" y1="598.0" x2="377.0" y2="598.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<rect x="377.0" y="591.5" width="42.0" height="13.0" rx="0" fill="#FFFFFF" stroke="#A33A3A" stroke-width="1.2"/>
+<text x="398.0" y="588.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">R9</text>
+<text x="398.0" y="616.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">5k</text>
+<line x1="423.0" y1="598.0" x2="440.5" y2="598.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="447.5" y1="598.0" x2="465.0" y2="598.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="440.5" y1="589.0" x2="440.5" y2="607.0" stroke="#A33A3A" stroke-width="1.7"/>
+<line x1="447.5" y1="589.0" x2="447.5" y2="607.0" stroke="#A33A3A" stroke-width="1.7"/>
+<text x="444.0" y="585.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">C4</text>
+<text x="444.0" y="618.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">1u</text>
+<line x1="465.0" y1="598.0" x2="468.0" y2="598.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<polygon points="468.0,598.0 475.0,591.0 493.8,591.0 493.8,605.0 475.0,605.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="477.5" y="601.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">RI</text>
+<line x1="348.0" y1="622.0" x2="362.0" y2="622.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="362.0" y1="622.0" x2="362.0" y2="629.0" stroke="#2B2B2B" stroke-width="1.1"/>
+<line x1="354.0" y1="629.0" x2="370.0" y2="629.0" stroke="#2B2B2B" stroke-width="1.4"/>
+<line x1="357.0" y1="632.0" x2="367.0" y2="632.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="360.0" y1="635.0" x2="364.0" y2="635.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<text x="64.0" y="652.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#6B7280" font-weight="400" text-anchor="start">两片共用 CS=PA4 / SCK=PA5 / SI=PA6（GPIO 模拟 SPI）；同帧写入 → 左右增益严格同步。</text>
+<text x="64.0" y="666.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#6B7280" font-weight="400" text-anchor="start">PA0 悬空，作两端变阻器（W–B）串在通路中，与 R8/R9 共同决定音量。</text>
+<rect x="530.0" y="340.0" width="560.0" height="330.0" rx="6" fill="#FCFDFE" stroke="#C9CDD4" stroke-width="1.0" stroke-dasharray="7 5"/>
+<rect x="530.0" y="347.0" width="3.2" height="15.0" rx="0" fill="#1F4E9C" stroke="#1F4E9C" stroke-width="0"/>
+<text x="544.0" y="359.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="11.5" fill="#12325F" font-weight="500" text-anchor="start">⑤ 耳机 / 扬声器选通（U2）</text>
+<text x="1078.0" y="359.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#6B7280" font-weight="400" text-anchor="end">CD4066BE</text>
+<rect x="630.0" y="384.0" width="326.0" height="186.0" rx="2" fill="#FFFFFF" stroke="#A33A3A" stroke-width="1.3"/>
+<text x="793.0" y="369.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="11" fill="#2B2B2B" font-weight="500" text-anchor="middle">U2</text>
+<text x="793.0" y="381.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="10" fill="#2B2B2B" font-weight="400" text-anchor="middle">CD4066BE</text>
+<line x1="608.0" y1="410.0" x2="630.0" y2="410.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="624.0" y="406.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">1</text>
+<text x="635.0" y="413.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">SIG_A_IN/OUT</text>
+<line x1="956.0" y1="410.0" x2="978.0" y2="410.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="962.0" y="406.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">14</text>
+<text x="951.0" y="413.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">VDD</text>
+<line x1="608.0" y1="432.0" x2="630.0" y2="432.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="624.0" y="428.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">2</text>
+<text x="635.0" y="435.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">SIG_A_OUT/IN</text>
+<line x1="956.0" y1="432.0" x2="978.0" y2="432.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="962.0" y="428.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">13</text>
+<text x="951.0" y="435.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">CONTROL_A</text>
+<line x1="608.0" y1="454.0" x2="630.0" y2="454.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="624.0" y="450.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">3</text>
+<text x="635.0" y="457.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">SIG_B_OUT/IN</text>
+<line x1="956.0" y1="454.0" x2="978.0" y2="454.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="962.0" y="450.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">12</text>
+<text x="951.0" y="457.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">CONTROL_D</text>
+<line x1="608.0" y1="476.0" x2="630.0" y2="476.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="624.0" y="472.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">4</text>
+<text x="635.0" y="479.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">SIG_B_IN/OUT</text>
+<line x1="956.0" y1="476.0" x2="978.0" y2="476.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="962.0" y="472.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">11</text>
+<text x="951.0" y="479.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">SIG_D_IN/OUT</text>
+<line x1="608.0" y1="498.0" x2="630.0" y2="498.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="624.0" y="494.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">5</text>
+<text x="635.0" y="501.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">CONTROL_B</text>
+<line x1="956.0" y1="498.0" x2="978.0" y2="498.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="962.0" y="494.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">10</text>
+<text x="951.0" y="501.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">SIG_D_OUT/IN</text>
+<line x1="608.0" y1="520.0" x2="630.0" y2="520.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="624.0" y="516.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">6</text>
+<text x="635.0" y="523.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">CONTROL_C</text>
+<line x1="956.0" y1="520.0" x2="978.0" y2="520.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="962.0" y="516.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">9</text>
+<text x="951.0" y="523.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">SIG_C_OUT/IN</text>
+<line x1="608.0" y1="542.0" x2="630.0" y2="542.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="624.0" y="538.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">7</text>
+<text x="635.0" y="545.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">VSS</text>
+<line x1="956.0" y1="542.0" x2="978.0" y2="542.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="962.0" y="538.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">8</text>
+<text x="951.0" y="545.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">SIG_C_IN/OUT</text>
+<polygon points="608.0,410.0 601.0,403.0 582.2,403.0 582.2,417.0 601.0,417.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="598.5" y="413.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">L2</text>
+<polygon points="608.0,432.0 601.0,425.0 582.2,425.0 582.2,439.0 601.0,439.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="598.5" y="435.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">L3</text>
+<polygon points="608.0,454.0 601.0,447.0 582.2,447.0 582.2,461.0 601.0,461.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="598.5" y="457.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">R2</text>
+<polygon points="608.0,476.0 601.0,469.0 582.2,469.0 582.2,483.0 601.0,483.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="598.5" y="479.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">R3</text>
+<polygon points="608.0,498.0 601.0,491.0 582.2,491.0 582.2,505.0 601.0,505.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="598.5" y="501.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">A3</text>
+<polygon points="608.0,520.0 601.0,513.0 582.2,513.0 582.2,527.0 601.0,527.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="598.5" y="523.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">A2</text>
+<line x1="608.0" y1="542.0" x2="586.0" y2="542.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="586.0" y1="542.0" x2="586.0" y2="549.0" stroke="#2B2B2B" stroke-width="1.1"/>
+<line x1="578.0" y1="549.0" x2="594.0" y2="549.0" stroke="#2B2B2B" stroke-width="1.4"/>
+<line x1="581.0" y1="552.0" x2="591.0" y2="552.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="584.0" y1="555.0" x2="588.0" y2="555.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="978.0" y1="410.0" x2="978.0" y2="403.0" stroke="#2B2B2B" stroke-width="1.1"/>
+<line x1="971.0" y1="403.0" x2="985.0" y2="403.0" stroke="#2B2B2B" stroke-width="1.4"/>
+<text x="978.0" y="399.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9" fill="#2B2B2B" font-weight="400" text-anchor="middle">+3.3V</text>
+<polygon points="978.0,432.0 985.0,425.0 1003.8,425.0 1003.8,439.0 985.0,439.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="987.5" y="435.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">A3</text>
+<polygon points="978.0,454.0 985.0,447.0 1003.8,447.0 1003.8,461.0 985.0,461.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="987.5" y="457.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">A2</text>
+<polygon points="978.0,476.0 985.0,469.0 1003.8,469.0 1003.8,483.0 985.0,483.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="987.5" y="479.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">L2</text>
+<polygon points="978.0,498.0 985.0,491.0 1003.8,491.0 1003.8,505.0 985.0,505.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="987.5" y="501.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">RL</text>
+<polygon points="978.0,520.0 985.0,513.0 1003.8,513.0 1003.8,527.0 985.0,527.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="987.5" y="523.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">R2</text>
+<polygon points="978.0,542.0 985.0,535.0 1003.8,535.0 1003.8,549.0 985.0,549.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="987.5" y="545.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">RL</text>
+<text x="554.0" y="596.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#6B7280" font-weight="400" text-anchor="start">A3 高 → 音乐进耳机（L2→L3、R2→R3）；A2 高 → 音乐进功放（L2、R2 汇成 RL 送加法器）。</text>
+<text x="554.0" y="612.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#B04A4A" font-weight="400" text-anchor="start">† 原图 U2 的 C / D 两组开关走线较密，此处按“双声道汇总为 RL”绘制，请以工程网表为准。</text>
+<text x="554.0" y="632.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#6B7280" font-weight="400" text-anchor="start">A3 = PA3，A2 = PA2。</text>
+<rect x="1110.0" y="340.0" width="350.0" height="330.0" rx="6" fill="#FCFDFE" stroke="#C9CDD4" stroke-width="1.0" stroke-dasharray="7 5"/>
+<rect x="1110.0" y="347.0" width="3.2" height="15.0" rx="0" fill="#1F4E9C" stroke="#1F4E9C" stroke-width="0"/>
+<text x="1124.0" y="359.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="11.5" fill="#12325F" font-weight="500" text-anchor="start">⑥ 按键</text>
+<text x="1448.0" y="359.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#6B7280" font-weight="400" text-anchor="end">KEY1–KEY4</text>
+<line x1="1168.0" y1="402.0" x2="1168.0" y2="452.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<polygon points="1168.0,424.0 1161.0,417.0 1142.2,417.0 1142.2,431.0 1161.0,431.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1158.5" y="427.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">A7</text>
+<line x1="1159.0" y1="452.0" x2="1177.0" y2="452.0" stroke="#A33A3A" stroke-width="1.7"/>
+<line x1="1159.0" y1="468.0" x2="1177.0" y2="468.0" stroke="#A33A3A" stroke-width="1.7"/>
+<line x1="1168.0" y1="452.0" x2="1168.0" y2="443.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="1168.0" y1="468.0" x2="1168.0" y2="572.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<text x="1181.0" y="498.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.2" fill="#2B2B2B" font-weight="400" text-anchor="start">KEY1</text>
+<text x="1181.0" y="512.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.8" fill="#6B7280" font-weight="400" text-anchor="start">切换</text>
+<line x1="1243.0" y1="402.0" x2="1243.0" y2="452.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<polygon points="1243.0,424.0 1236.0,417.0 1217.2,417.0 1217.2,431.0 1236.0,431.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1233.5" y="427.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">B1</text>
+<line x1="1234.0" y1="452.0" x2="1252.0" y2="452.0" stroke="#A33A3A" stroke-width="1.7"/>
+<line x1="1234.0" y1="468.0" x2="1252.0" y2="468.0" stroke="#A33A3A" stroke-width="1.7"/>
+<line x1="1243.0" y1="452.0" x2="1243.0" y2="443.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="1243.0" y1="468.0" x2="1243.0" y2="572.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<text x="1256.0" y="498.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.2" fill="#2B2B2B" font-weight="400" text-anchor="start">KEY2</text>
+<text x="1256.0" y="512.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.8" fill="#6B7280" font-weight="400" text-anchor="start">静音</text>
+<line x1="1318.0" y1="402.0" x2="1318.0" y2="452.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<polygon points="1318.0,424.0 1311.0,417.0 1292.2,417.0 1292.2,431.0 1311.0,431.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1308.5" y="427.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">B0</text>
+<line x1="1309.0" y1="452.0" x2="1327.0" y2="452.0" stroke="#A33A3A" stroke-width="1.7"/>
+<line x1="1309.0" y1="468.0" x2="1327.0" y2="468.0" stroke="#A33A3A" stroke-width="1.7"/>
+<line x1="1318.0" y1="452.0" x2="1318.0" y2="443.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="1318.0" y1="468.0" x2="1318.0" y2="572.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<text x="1331.0" y="498.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.2" fill="#2B2B2B" font-weight="400" text-anchor="start">KEY3</text>
+<text x="1331.0" y="512.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.8" fill="#6B7280" font-weight="400" text-anchor="start">音量 −</text>
+<line x1="1393.0" y1="402.0" x2="1393.0" y2="452.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<polygon points="1393.0,424.0 1386.0,417.0 1360.8,417.0 1360.8,431.0 1386.0,431.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1383.5" y="427.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">B15</text>
+<line x1="1384.0" y1="452.0" x2="1402.0" y2="452.0" stroke="#A33A3A" stroke-width="1.7"/>
+<line x1="1384.0" y1="468.0" x2="1402.0" y2="468.0" stroke="#A33A3A" stroke-width="1.7"/>
+<line x1="1393.0" y1="452.0" x2="1393.0" y2="443.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="1393.0" y1="468.0" x2="1393.0" y2="572.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<text x="1406.0" y="498.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.2" fill="#2B2B2B" font-weight="400" text-anchor="start">KEY4</text>
+<text x="1406.0" y="512.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.8" fill="#6B7280" font-weight="400" text-anchor="start">音量 +</text>
+<line x1="1168.0" y1="572.0" x2="1393.0" y2="572.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="1280.0" y1="572.0" x2="1280.0" y2="579.0" stroke="#2B2B2B" stroke-width="1.1"/>
+<line x1="1272.0" y1="579.0" x2="1288.0" y2="579.0" stroke="#2B2B2B" stroke-width="1.4"/>
+<line x1="1275.0" y1="582.0" x2="1285.0" y2="582.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="1278.0" y1="585.0" x2="1282.0" y2="585.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<text x="1134.0" y="602.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#6B7280" font-weight="400" text-anchor="start">四键均为内部上拉 + 按键接地，低电平有效。</text>
+<text x="1134.0" y="618.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#B04A4A" font-weight="400" text-anchor="start">† 耳机线控按键不进 GPIO，而是由 A0 的 ADC 做电阻分压识别。</text>
+<text x="1134.0" y="640.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#1F4E9C" font-weight="400" text-anchor="start">PA7 / PB1 / PB0 / PB15</text>
+<rect x="1490.0" y="340.0" width="300.0" height="330.0" rx="6" fill="#FCFDFE" stroke="#C9CDD4" stroke-width="1.0" stroke-dasharray="7 5"/>
+<rect x="1490.0" y="347.0" width="3.2" height="15.0" rx="0" fill="#1F4E9C" stroke="#1F4E9C" stroke-width="0"/>
+<text x="1504.0" y="359.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="11.5" fill="#12325F" font-weight="500" text-anchor="start">⑦ 耳机输出</text>
+<text x="1778.0" y="359.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#6B7280" font-weight="400" text-anchor="end">H2</text>
+<rect x="1672.0" y="428.0" width="50.0" height="112.0" rx="2" fill="#FFFFFF" stroke="#A33A3A" stroke-width="1.2"/>
+<text x="1697.0" y="420.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9" fill="#2B2B2B" font-weight="400" text-anchor="middle">H2 耳机</text>
+<text x="1697.0" y="453.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="middle">L</text>
+<line x1="1672.0" y1="450.0" x2="1650.0" y2="450.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<text x="1697.0" y="477.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="middle">R</text>
+<line x1="1672.0" y1="474.0" x2="1650.0" y2="474.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<text x="1697.0" y="501.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="middle">M</text>
+<line x1="1672.0" y1="498.0" x2="1650.0" y2="498.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<text x="1697.0" y="525.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="middle">G</text>
+<line x1="1672.0" y1="522.0" x2="1650.0" y2="522.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="1650.0" y1="450.0" x2="1602.0" y2="450.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<polygon points="1602.0,450.0 1595.0,443.0 1576.2,443.0 1576.2,457.0 1595.0,457.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1592.5" y="453.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">L3</text>
+<line x1="1650.0" y1="474.0" x2="1602.0" y2="474.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<polygon points="1602.0,474.0 1595.0,467.0 1576.2,467.0 1576.2,481.0 1595.0,481.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1592.5" y="477.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">R3</text>
+<line x1="1650.0" y1="498.0" x2="1595.0" y2="498.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<circle cx="1600.0" cy="498.0" r="2.6" fill="#1B8A5A"/>
+<polygon points="1595.0,498.0 1588.0,491.0 1569.2,491.0 1569.2,505.0 1588.0,505.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1585.5" y="501.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">A0</text>
+<line x1="1600.0" y1="498.0" x2="1600.0" y2="537.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<rect x="1593.5" y="537.0" width="13.0" height="42.0" rx="0" fill="#FFFFFF" stroke="#A33A3A" stroke-width="1.2"/>
+<text x="1611.0" y="556.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="start">R14</text>
+<text x="1611.0" y="569.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="start">1k</text>
+<line x1="1600.0" y1="579.0" x2="1600.0" y2="586.0" stroke="#2B2B2B" stroke-width="1.1"/>
+<line x1="1592.0" y1="586.0" x2="1608.0" y2="586.0" stroke="#2B2B2B" stroke-width="1.4"/>
+<line x1="1595.0" y1="589.0" x2="1605.0" y2="589.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="1598.0" y1="592.0" x2="1602.0" y2="592.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<polygon points="1650.0,522.0 1643.0,515.0 1605.0,515.0 1605.0,529.0 1643.0,529.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1640.5" y="525.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">+3.3V</text>
+<text x="1510.0" y="626.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#6B7280" font-weight="400" text-anchor="start">M 脚为线控端，A0(ADC) 经 R14=1k 对地取分压：</text>
+<text x="1510.0" y="640.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#6B7280" font-weight="400" text-anchor="start">按下不同线控键 → 不同阻值 → 不同电压区间。</text>
+<text x="1510.0" y="658.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#B04A4A" font-weight="400" text-anchor="start">† 原图 G 脚接 +3.3V，按图直译，请与实物核对。</text>
+<rect x="40.0" y="710.0" width="1060.0" height="440.0" rx="6" fill="#FCFDFE" stroke="#C9CDD4" stroke-width="1.0" stroke-dasharray="7 5"/>
+<rect x="40.0" y="717.0" width="3.2" height="15.0" rx="0" fill="#1F4E9C" stroke="#1F4E9C" stroke-width="0"/>
+<text x="54.0" y="729.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="11.5" fill="#12325F" font-weight="500" text-anchor="start">⑧ 麦克风 / 音乐加法器 与 功率放大</text>
+<text x="1088.0" y="729.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#6B7280" font-weight="400" text-anchor="end">U3.1 NE5532 · U4 TDA2822L</text>
+<polygon points="56.0,805.0 63.0,798.0 81.8,798.0 81.8,812.0 63.0,812.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="65.5" y="808.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">RL</text>
+<line x1="81.8" y1="805.0" x2="290.0" y2="805.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="290.0" y1="805.0" x2="290.0" y2="870.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<circle cx="290.0" cy="805.0" r="2.6" fill="#1B8A5A"/>
+<polygon points="56.0,755.0 63.0,748.0 94.6,748.0 94.6,762.0 63.0,762.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="65.5" y="758.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">MIC2</text>
+<line x1="94.6" y1="755.0" x2="83.0" y2="755.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="83.0" y1="755.0" x2="100.5" y2="755.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="107.5" y1="755.0" x2="125.0" y2="755.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="100.5" y1="746.0" x2="100.5" y2="764.0" stroke="#A33A3A" stroke-width="1.7"/>
+<line x1="107.5" y1="746.0" x2="107.5" y2="764.0" stroke="#A33A3A" stroke-width="1.7"/>
+<text x="104.0" y="742.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">C18</text>
+<text x="104.0" y="775.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">1u</text>
+<rect x="125.0" y="748.5" width="42.0" height="13.0" rx="0" fill="#FFFFFF" stroke="#A33A3A" stroke-width="1.2"/>
+<text x="146.0" y="745.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">R16</text>
+<text x="146.0" y="773.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">5k</text>
+<line x1="167.0" y1="755.0" x2="290.0" y2="755.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="290.0" y1="755.0" x2="290.0" y2="870.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<circle cx="290.0" cy="870.0" r="2.6" fill="#1B8A5A"/>
+<line x1="290.0" y1="870.0" x2="340.0" y2="870.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<polygon points="340.0,845.0 340.0,945.0 414.0,895.0" fill="#FFFFFF" stroke="#A33A3A" stroke-width="1.3"/>
+<text x="352.0" y="874.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="13" fill="#2B2B2B" font-weight="400" text-anchor="middle">−</text>
+<text x="352.0" y="924.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="12" fill="#2B2B2B" font-weight="400" text-anchor="middle">+</text>
+<text x="432.0" y="968.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.6" fill="#2B2B2B" font-weight="400" text-anchor="start">U3.1  NE5532P</text>
+<line x1="295.0" y1="920.0" x2="340.0" y2="920.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="358.0" y1="857.0" x2="358.0" y2="820.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="358.0" y1="820.0" x2="358.0" y2="813.0" stroke="#2B2B2B" stroke-width="1.1"/>
+<line x1="351.0" y1="813.0" x2="365.0" y2="813.0" stroke="#2B2B2B" stroke-width="1.4"/>
+<text x="358.0" y="809.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9" fill="#2B2B2B" font-weight="400" text-anchor="middle">+5V</text>
+<line x1="358.0" y1="933.0" x2="358.0" y2="953.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="358.0" y1="953.0" x2="358.0" y2="960.0" stroke="#2B2B2B" stroke-width="1.1"/>
+<line x1="350.0" y1="960.0" x2="366.0" y2="960.0" stroke="#2B2B2B" stroke-width="1.4"/>
+<line x1="353.0" y1="963.0" x2="363.0" y2="963.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="356.0" y1="966.0" x2="360.0" y2="966.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="414.0" y1="895.0" x2="438.0" y2="895.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="438.0" y1="895.0" x2="438.0" y2="732.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="438.0" y1="732.0" x2="290.0" y2="732.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="290.0" y1="732.0" x2="290.0" y2="870.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<circle cx="290.0" cy="772.0" r="2.6" fill="#1B8A5A"/>
+<circle cx="438.0" cy="772.0" r="2.6" fill="#1B8A5A"/>
+<rect x="369.0" y="765.5" width="42.0" height="13.0" rx="0" fill="#FFFFFF" stroke="#A33A3A" stroke-width="1.2"/>
+<text x="390.0" y="762.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">R1</text>
+<text x="390.0" y="790.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">20k</text>
+<line x1="290.0" y1="772.0" x2="369.0" y2="772.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="411.0" y1="772.0" x2="438.0" y2="772.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="309.0" y1="732.0" x2="326.5" y2="732.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="333.5" y1="732.0" x2="351.0" y2="732.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="326.5" y1="723.0" x2="326.5" y2="741.0" stroke="#A33A3A" stroke-width="1.7"/>
+<line x1="333.5" y1="723.0" x2="333.5" y2="741.0" stroke="#A33A3A" stroke-width="1.7"/>
+<text x="330.0" y="719.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">C8</text>
+<text x="330.0" y="752.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">1n</text>
+<polygon points="70.0,920.0 77.0,913.0 102.2,913.0 102.2,927.0 77.0,927.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="79.5" y="923.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">+5V</text>
+<line x1="102.2" y1="920.0" x2="193.0" y2="920.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<rect x="193.0" y="913.5" width="42.0" height="13.0" rx="0" fill="#FFFFFF" stroke="#A33A3A" stroke-width="1.2"/>
+<text x="214.0" y="910.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">R2</text>
+<text x="214.0" y="938.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">100k</text>
+<line x1="235.0" y1="920.0" x2="295.0" y2="920.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<circle cx="252.0" cy="920.0" r="2.6" fill="#1B8A5A"/>
+<line x1="252.0" y1="920.0" x2="252.0" y2="941.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<rect x="245.5" y="941.0" width="13.0" height="42.0" rx="0" fill="#FFFFFF" stroke="#A33A3A" stroke-width="1.2"/>
+<text x="263.0" y="960.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="start">R3</text>
+<text x="263.0" y="973.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="start">100k</text>
+<line x1="252.0" y1="983.0" x2="252.0" y2="990.0" stroke="#2B2B2B" stroke-width="1.1"/>
+<line x1="244.0" y1="990.0" x2="260.0" y2="990.0" stroke="#2B2B2B" stroke-width="1.4"/>
+<line x1="247.0" y1="993.0" x2="257.0" y2="993.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="250.0" y1="996.0" x2="254.0" y2="996.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<circle cx="438.0" cy="895.0" r="2.6" fill="#1B8A5A"/>
+<line x1="438.0" y1="895.0" x2="449.0" y2="895.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="449.0" y1="895.0" x2="466.5" y2="895.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="473.5" y1="895.0" x2="491.0" y2="895.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="466.5" y1="886.0" x2="466.5" y2="904.0" stroke="#A33A3A" stroke-width="1.7"/>
+<line x1="473.5" y1="886.0" x2="473.5" y2="904.0" stroke="#A33A3A" stroke-width="1.7"/>
+<text x="470.0" y="882.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">C2</text>
+<text x="470.0" y="915.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">10u</text>
+<text x="460.0" y="883.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9" fill="#A33A3A" font-weight="400" text-anchor="middle">+</text>
+<line x1="491.0" y1="895.0" x2="499.0" y2="895.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="499.0" y1="895.0" x2="516.5" y2="895.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="523.5" y1="895.0" x2="541.0" y2="895.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="516.5" y1="886.0" x2="516.5" y2="904.0" stroke="#A33A3A" stroke-width="1.7"/>
+<line x1="523.5" y1="886.0" x2="523.5" y2="904.0" stroke="#A33A3A" stroke-width="1.7"/>
+<text x="520.0" y="882.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">C11</text>
+<text x="520.0" y="915.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">3.3n</text>
+<line x1="541.0" y1="895.0" x2="638.0" y2="895.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<circle cx="596.0" cy="895.0" r="2.6" fill="#1B8A5A"/>
+<rect x="660.0" y="820.0" width="200.0" height="170.0" rx="2" fill="#FFFFFF" stroke="#A33A3A" stroke-width="1.3"/>
+<text x="760.0" y="805.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="11" fill="#2B2B2B" font-weight="500" text-anchor="middle">U4</text>
+<text x="760.0" y="817.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="10" fill="#2B2B2B" font-weight="400" text-anchor="middle">TDA2822L-D08-T</text>
+<line x1="638.0" y1="845.0" x2="660.0" y2="845.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="654.0" y="841.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">5</text>
+<text x="665.0" y="848.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">IN-/2</text>
+<line x1="638.0" y1="870.0" x2="660.0" y2="870.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="654.0" y="866.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">6</text>
+<text x="665.0" y="873.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">IN+/2</text>
+<line x1="638.0" y1="895.0" x2="660.0" y2="895.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="654.0" y="891.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">7</text>
+<text x="665.0" y="898.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">IN+/1</text>
+<line x1="638.0" y1="920.0" x2="660.0" y2="920.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="654.0" y="916.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">8</text>
+<text x="665.0" y="923.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">IN-/1</text>
+<line x1="860.0" y1="870.0" x2="882.0" y2="870.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="866.0" y="866.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">3</text>
+<text x="855.0" y="873.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">OUT/2</text>
+<line x1="860.0" y1="920.0" x2="882.0" y2="920.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="866.0" y="916.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">1</text>
+<text x="855.0" y="923.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">OUT/1</text>
+<text x="830.0" y="815.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">2</text>
+<line x1="830.0" y1="820.0" x2="830.0" y2="806.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="830.0" y1="806.0" x2="830.0" y2="799.0" stroke="#2B2B2B" stroke-width="1.1"/>
+<line x1="823.0" y1="799.0" x2="837.0" y2="799.0" stroke="#2B2B2B" stroke-width="1.4"/>
+<text x="830.0" y="795.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9" fill="#2B2B2B" font-weight="400" text-anchor="middle">+5V</text>
+<text x="790.0" y="1006.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">4</text>
+<line x1="780.0" y1="990.0" x2="780.0" y2="1002.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="780.0" y1="1002.0" x2="780.0" y2="1009.0" stroke="#2B2B2B" stroke-width="1.1"/>
+<line x1="772.0" y1="1009.0" x2="788.0" y2="1009.0" stroke="#2B2B2B" stroke-width="1.4"/>
+<line x1="775.0" y1="1012.0" x2="785.0" y2="1012.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="778.0" y1="1015.0" x2="782.0" y2="1015.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="596.0" y1="895.0" x2="596.0" y2="870.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="596.0" y1="870.0" x2="638.0" y2="870.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="638.0" y1="845.0" x2="614.0" y2="845.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="614.0" y1="803.0" x2="614.0" y2="820.5" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="614.0" y1="827.5" x2="614.0" y2="845.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="605.0" y1="820.5" x2="623.0" y2="820.5" stroke="#A33A3A" stroke-width="1.7"/>
+<line x1="605.0" y1="827.5" x2="623.0" y2="827.5" stroke="#A33A3A" stroke-width="1.7"/>
+<text x="626.0" y="823.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="start">C6</text>
+<text x="626.0" y="836.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="start">0.01u</text>
+<line x1="614.0" y1="803.0" x2="614.0" y2="796.0" stroke="#2B2B2B" stroke-width="1.1"/>
+<line x1="606.0" y1="796.0" x2="622.0" y2="796.0" stroke="#2B2B2B" stroke-width="1.4"/>
+<line x1="609.0" y1="793.0" x2="619.0" y2="793.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="612.0" y1="790.0" x2="616.0" y2="790.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="638.0" y1="920.0" x2="614.0" y2="920.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="614.0" y1="920.0" x2="614.0" y2="937.5" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="614.0" y1="944.5" x2="614.0" y2="962.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="605.0" y1="937.5" x2="623.0" y2="937.5" stroke="#A33A3A" stroke-width="1.7"/>
+<line x1="605.0" y1="944.5" x2="623.0" y2="944.5" stroke="#A33A3A" stroke-width="1.7"/>
+<text x="626.0" y="940.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="start">C7</text>
+<text x="626.0" y="953.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="start">10u</text>
+<text x="600.0" y="938.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9" fill="#A33A3A" font-weight="400" text-anchor="middle">+</text>
+<line x1="614.0" y1="962.0" x2="614.0" y2="969.0" stroke="#2B2B2B" stroke-width="1.1"/>
+<line x1="606.0" y1="969.0" x2="622.0" y2="969.0" stroke="#2B2B2B" stroke-width="1.4"/>
+<line x1="609.0" y1="972.0" x2="619.0" y2="972.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="612.0" y1="975.0" x2="616.0" y2="975.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="882.0" y1="870.0" x2="940.0" y2="870.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<circle cx="918.0" cy="870.0" r="2.6" fill="#1B8A5A"/>
+<rect x="911.5" y="828.0" width="13.0" height="42.0" rx="0" fill="#FFFFFF" stroke="#A33A3A" stroke-width="1.2"/>
+<text x="929.0" y="847.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="start">R4</text>
+<text x="929.0" y="860.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="start">4.7</text>
+<line x1="918.0" y1="786.0" x2="918.0" y2="803.5" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="918.0" y1="810.5" x2="918.0" y2="828.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="909.0" y1="803.5" x2="927.0" y2="803.5" stroke="#A33A3A" stroke-width="1.7"/>
+<line x1="909.0" y1="810.5" x2="927.0" y2="810.5" stroke="#A33A3A" stroke-width="1.7"/>
+<text x="930.0" y="806.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="start">C9</text>
+<text x="930.0" y="819.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="start">0.1u</text>
+<line x1="918.0" y1="786.0" x2="918.0" y2="779.0" stroke="#2B2B2B" stroke-width="1.1"/>
+<line x1="910.0" y1="779.0" x2="926.0" y2="779.0" stroke="#2B2B2B" stroke-width="1.4"/>
+<line x1="913.0" y1="776.0" x2="923.0" y2="776.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="916.0" y1="773.0" x2="920.0" y2="773.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<polygon points="940.0,870.0 947.0,863.0 978.6,863.0 978.6,877.0 947.0,877.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="949.5" y="873.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">SPK1</text>
+<line x1="882.0" y1="920.0" x2="940.0" y2="920.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<polygon points="940.0,920.0 947.0,913.0 978.6,913.0 978.6,927.0 947.0,927.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="949.5" y="923.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">SPK2</text>
+<text x="956.0" y="960.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.4" fill="#6B7280" font-weight="400" text-anchor="start">经 J3 / J4（2P 排针）</text>
+<text x="956.0" y="973.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.4" fill="#6B7280" font-weight="400" text-anchor="start">接 8Ω / 0.5W 扬声器</text>
+<text x="64.0" y="1012.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#6B7280" font-weight="400" text-anchor="start">增益 Au = −R1 / (R8 + R_MCP)：音乐支路用 R8 + 数字电位器作输入电阻，增益约 −4 ~ −1.3。</text>
+<text x="64.0" y="1028.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#6B7280" font-weight="400" text-anchor="start">MIC2 支路经 R16 = 5k 进入同一虚地，与音乐求和 → 人声与伴奏混合后送出。</text>
+<text x="64.0" y="1046.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#B04A4A" font-weight="400" text-anchor="start">† TDA2822 输入网络（C6 / C7 与 IN− 端接法）按标准单电源立体声接法绘制，请对照原图确认。</text>
+<rect x="1120.0" y="710.0" width="350.0" height="440.0" rx="6" fill="#FCFDFE" stroke="#C9CDD4" stroke-width="1.0" stroke-dasharray="7 5"/>
+<rect x="1120.0" y="717.0" width="3.2" height="15.0" rx="0" fill="#1F4E9C" stroke="#1F4E9C" stroke-width="0"/>
+<text x="1134.0" y="729.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="11.5" fill="#12325F" font-weight="500" text-anchor="start">⑨ 麦克风前置放大</text>
+<text x="1458.0" y="729.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#6B7280" font-weight="400" text-anchor="end">U3.2 NE5532</text>
+<polygon points="1132.0,828.0 1139.0,821.0 1164.2,821.0 1164.2,835.0 1139.0,835.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1141.5" y="831.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">MIC</text>
+<line x1="1164.2" y1="828.0" x2="1163.0" y2="828.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="1163.0" y1="828.0" x2="1180.5" y2="828.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="1187.5" y1="828.0" x2="1205.0" y2="828.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="1180.5" y1="819.0" x2="1180.5" y2="837.0" stroke="#A33A3A" stroke-width="1.7"/>
+<line x1="1187.5" y1="819.0" x2="1187.5" y2="837.0" stroke="#A33A3A" stroke-width="1.7"/>
+<text x="1184.0" y="815.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">C17</text>
+<text x="1184.0" y="848.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">1u</text>
+<rect x="1205.0" y="821.5" width="42.0" height="13.0" rx="0" fill="#FFFFFF" stroke="#A33A3A" stroke-width="1.2"/>
+<text x="1226.0" y="818.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">R15</text>
+<text x="1226.0" y="846.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">5k</text>
+<line x1="1247.0" y1="828.0" x2="1300.0" y2="828.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<polygon points="1300.0,798.0 1300.0,898.0 1374.0,848.0" fill="#FFFFFF" stroke="#A33A3A" stroke-width="1.3"/>
+<text x="1312.0" y="827.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="13" fill="#2B2B2B" font-weight="400" text-anchor="middle">−</text>
+<text x="1312.0" y="877.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="12" fill="#2B2B2B" font-weight="400" text-anchor="middle">+</text>
+<text x="1270.0" y="928.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.6" fill="#2B2B2B" font-weight="400" text-anchor="start">U3.2  NE5532P</text>
+<text x="1270.0" y="942.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.4" fill="#6B7280" font-weight="400" text-anchor="start">8 脚 V+ = +5V</text>
+<line x1="1328.0" y1="876.0" x2="1328.0" y2="902.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="1328.0" y1="902.0" x2="1328.0" y2="909.0" stroke="#2B2B2B" stroke-width="1.1"/>
+<line x1="1320.0" y1="909.0" x2="1336.0" y2="909.0" stroke="#2B2B2B" stroke-width="1.4"/>
+<line x1="1323.0" y1="912.0" x2="1333.0" y2="912.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="1326.0" y1="915.0" x2="1330.0" y2="915.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="1374.0" y1="848.0" x2="1378.0" y2="848.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="1378.0" y1="848.0" x2="1378.0" y2="740.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="1378.0" y1="740.0" x2="1300.0" y2="740.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="1300.0" y1="740.0" x2="1300.0" y2="828.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<circle cx="1300.0" cy="788.0" r="2.6" fill="#1B8A5A"/>
+<circle cx="1378.0" cy="788.0" r="2.6" fill="#1B8A5A"/>
+<circle cx="1300.0" cy="740.0" r="2.6" fill="#1B8A5A"/>
+<rect x="1318.0" y="781.5" width="42.0" height="13.0" rx="0" fill="#FFFFFF" stroke="#A33A3A" stroke-width="1.2"/>
+<text x="1339.0" y="778.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">R13</text>
+<text x="1339.0" y="806.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">20k</text>
+<line x1="1300.0" y1="788.0" x2="1318.0" y2="788.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="1360.0" y1="788.0" x2="1378.0" y2="788.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="1318.0" y1="740.0" x2="1335.5" y2="740.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="1342.5" y1="740.0" x2="1360.0" y2="740.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="1335.5" y1="731.0" x2="1335.5" y2="749.0" stroke="#A33A3A" stroke-width="1.7"/>
+<line x1="1342.5" y1="731.0" x2="1342.5" y2="749.0" stroke="#A33A3A" stroke-width="1.7"/>
+<text x="1339.0" y="727.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">C14</text>
+<text x="1339.0" y="760.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">1n</text>
+<polygon points="1144.0,886.0 1151.0,879.0 1176.2,879.0 1176.2,893.0 1151.0,893.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1153.5" y="889.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">+5V</text>
+<line x1="1176.2" y1="886.0" x2="1185.0" y2="886.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<rect x="1185.0" y="879.5" width="42.0" height="13.0" rx="0" fill="#FFFFFF" stroke="#A33A3A" stroke-width="1.2"/>
+<text x="1206.0" y="876.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">R12</text>
+<text x="1206.0" y="904.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">100k</text>
+<line x1="1227.0" y1="886.0" x2="1300.0" y2="886.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<circle cx="1248.0" cy="886.0" r="2.6" fill="#1B8A5A"/>
+<line x1="1248.0" y1="886.0" x2="1248.0" y2="887.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<rect x="1241.5" y="887.0" width="13.0" height="42.0" rx="0" fill="#FFFFFF" stroke="#A33A3A" stroke-width="1.2"/>
+<text x="1259.0" y="906.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="start">R11</text>
+<text x="1259.0" y="919.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="start">100k</text>
+<line x1="1248.0" y1="929.0" x2="1248.0" y2="936.0" stroke="#2B2B2B" stroke-width="1.1"/>
+<line x1="1240.0" y1="936.0" x2="1256.0" y2="936.0" stroke="#2B2B2B" stroke-width="1.4"/>
+<line x1="1243.0" y1="939.0" x2="1253.0" y2="939.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="1246.0" y1="942.0" x2="1250.0" y2="942.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="1378.0" y1="848.0" x2="1379.0" y2="848.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="1379.0" y1="848.0" x2="1396.5" y2="848.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="1403.5" y1="848.0" x2="1421.0" y2="848.0" stroke="#A33A3A" stroke-width="1.1"/>
+<line x1="1396.5" y1="839.0" x2="1396.5" y2="857.0" stroke="#A33A3A" stroke-width="1.7"/>
+<line x1="1403.5" y1="839.0" x2="1403.5" y2="857.0" stroke="#A33A3A" stroke-width="1.7"/>
+<text x="1400.0" y="835.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">C16</text>
+<text x="1400.0" y="868.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="middle">10u</text>
+<text x="1390.0" y="836.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9" fill="#A33A3A" font-weight="400" text-anchor="middle">+</text>
+<circle cx="1421.0" cy="848.0" r="2.6" fill="#1B8A5A"/>
+<line x1="1421.0" y1="848.0" x2="1426.0" y2="848.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<polygon points="1426.0,848.0 1433.0,841.0 1464.6,841.0 1464.6,855.0 1433.0,855.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1435.5" y="851.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">MIC2</text>
+<line x1="1421.0" y1="848.0" x2="1421.0" y2="887.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<rect x="1414.5" y="887.0" width="13.0" height="42.0" rx="0" fill="#FFFFFF" stroke="#A33A3A" stroke-width="1.2"/>
+<text x="1432.0" y="906.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="start">R10</text>
+<text x="1432.0" y="919.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#2B2B2B" font-weight="400" text-anchor="start">1k</text>
+<line x1="1421.0" y1="929.0" x2="1421.0" y2="936.0" stroke="#2B2B2B" stroke-width="1.1"/>
+<line x1="1413.0" y1="936.0" x2="1429.0" y2="936.0" stroke="#2B2B2B" stroke-width="1.4"/>
+<line x1="1416.0" y1="939.0" x2="1426.0" y2="939.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="1419.0" y1="942.0" x2="1423.0" y2="942.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<text x="1140.0" y="978.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#6B7280" font-weight="400" text-anchor="start">MIC → C17 隔直 → R15 限流 → 反相放大；C14‖R13 决定闭环带宽。</text>
+<text x="1140.0" y="994.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#6B7280" font-weight="400" text-anchor="start">R12 / R11 分出 2.5V 虚地；输出经 C16 耦合为 MIC2。</text>
+<text x="1140.0" y="1012.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#6B7280" font-weight="400" text-anchor="start">MIC2 一路去加法器，另一路经 U1 的 C 组送 PA0 做 8kHz 采样。</text>
+<text x="1140.0" y="1030.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#B04A4A" font-weight="400" text-anchor="start">† R10 位置按图推断在 MIC2 对地。</text>
+<rect x="1490.0" y="710.0" width="300.0" height="440.0" rx="6" fill="#FCFDFE" stroke="#C9CDD4" stroke-width="1.0" stroke-dasharray="7 5"/>
+<rect x="1490.0" y="717.0" width="3.2" height="15.0" rx="0" fill="#1F4E9C" stroke="#1F4E9C" stroke-width="0"/>
+<text x="1504.0" y="729.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="11.5" fill="#12325F" font-weight="500" text-anchor="start">⑩ 主控与显示</text>
+<text x="1778.0" y="729.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.6" fill="#6B7280" font-weight="400" text-anchor="end">STM32F103C8T6</text>
+<rect x="1566.0" y="740.0" width="150.0" height="250.0" rx="2" fill="#FFFFFF" stroke="#A33A3A" stroke-width="1.3"/>
+<text x="1641.0" y="725.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="11" fill="#2B2B2B" font-weight="500" text-anchor="middle">U7</text>
+<text x="1641.0" y="737.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="10" fill="#2B2B2B" font-weight="400" text-anchor="middle">STM32F103C8T6</text>
+<line x1="1544.0" y1="784.0" x2="1566.0" y2="784.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="1560.0" y="780.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">4</text>
+<text x="1571.0" y="787.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">B15</text>
+<line x1="1544.0" y1="816.0" x2="1566.0" y2="816.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="1560.0" y="812.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">17</text>
+<text x="1571.0" y="819.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">B9</text>
+<line x1="1544.0" y1="838.0" x2="1566.0" y2="838.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="1560.0" y="834.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">16</text>
+<text x="1571.0" y="841.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">B8</text>
+<line x1="1544.0" y1="860.0" x2="1566.0" y2="860.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="1560.0" y="856.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">20</text>
+<text x="1571.0" y="863.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">3.3</text>
+<line x1="1544.0" y1="882.0" x2="1566.0" y2="882.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="1560.0" y="878.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">19</text>
+<text x="1571.0" y="885.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="start">GND</text>
+<polygon points="1544.0,784.0 1537.0,777.0 1511.8,777.0 1511.8,791.0 1537.0,791.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1534.5" y="787.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">B15</text>
+<polygon points="1544.0,816.0 1537.0,809.0 1518.2,809.0 1518.2,823.0 1537.0,823.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1534.5" y="819.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">B9</text>
+<polygon points="1544.0,838.0 1537.0,831.0 1518.2,831.0 1518.2,845.0 1537.0,845.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1534.5" y="841.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">B8</text>
+<polygon points="1544.0,860.0 1537.0,853.0 1499.0,853.0 1499.0,867.0 1537.0,867.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1534.5" y="863.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="end">+3.3V</text>
+<line x1="1544.0" y1="882.0" x2="1530.0" y2="882.0" stroke="#1B8A5A" stroke-width="1.2"/>
+<line x1="1530.0" y1="882.0" x2="1530.0" y2="889.0" stroke="#2B2B2B" stroke-width="1.1"/>
+<line x1="1522.0" y1="889.0" x2="1538.0" y2="889.0" stroke="#2B2B2B" stroke-width="1.4"/>
+<line x1="1525.0" y1="892.0" x2="1535.0" y2="892.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="1528.0" y1="895.0" x2="1532.0" y2="895.0" stroke="#2B2B2B" stroke-width="1.2"/>
+<line x1="1716.0" y1="760.0" x2="1738.0" y2="760.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="1722.0" y="756.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">35</text>
+<text x="1711.0" y="763.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">B10</text>
+<polygon points="1738.0,760.0 1745.0,753.0 1770.2,753.0 1770.2,767.0 1745.0,767.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1747.5" y="763.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">B10</text>
+<line x1="1716.0" y1="781.0" x2="1738.0" y2="781.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="1722.0" y="777.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">34</text>
+<text x="1711.0" y="784.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">B1</text>
+<polygon points="1738.0,781.0 1745.0,774.0 1763.8,774.0 1763.8,788.0 1745.0,788.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1747.5" y="784.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">B1</text>
+<line x1="1716.0" y1="802.0" x2="1738.0" y2="802.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="1722.0" y="798.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">33</text>
+<text x="1711.0" y="805.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">B0</text>
+<polygon points="1738.0,802.0 1745.0,795.0 1763.8,795.0 1763.8,809.0 1745.0,809.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1747.5" y="805.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">B0</text>
+<line x1="1716.0" y1="823.0" x2="1738.0" y2="823.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="1722.0" y="819.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">32</text>
+<text x="1711.0" y="826.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">A7</text>
+<polygon points="1738.0,823.0 1745.0,816.0 1763.8,816.0 1763.8,830.0 1745.0,830.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1747.5" y="826.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">A7</text>
+<line x1="1716.0" y1="844.0" x2="1738.0" y2="844.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="1722.0" y="840.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">31</text>
+<text x="1711.0" y="847.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">A6</text>
+<polygon points="1738.0,844.0 1745.0,837.0 1763.8,837.0 1763.8,851.0 1745.0,851.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1747.5" y="847.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">A6</text>
+<line x1="1716.0" y1="865.0" x2="1738.0" y2="865.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="1722.0" y="861.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">30</text>
+<text x="1711.0" y="868.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">A5</text>
+<polygon points="1738.0,865.0 1745.0,858.0 1763.8,858.0 1763.8,872.0 1745.0,872.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1747.5" y="868.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">A5</text>
+<line x1="1716.0" y1="886.0" x2="1738.0" y2="886.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="1722.0" y="882.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">29</text>
+<text x="1711.0" y="889.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">A4</text>
+<polygon points="1738.0,886.0 1745.0,879.0 1763.8,879.0 1763.8,893.0 1745.0,893.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1747.5" y="889.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">A4</text>
+<line x1="1716.0" y1="907.0" x2="1738.0" y2="907.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="1722.0" y="903.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">28</text>
+<text x="1711.0" y="910.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">A3</text>
+<polygon points="1738.0,907.0 1745.0,900.0 1763.8,900.0 1763.8,914.0 1745.0,914.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1747.5" y="910.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">A3</text>
+<line x1="1716.0" y1="928.0" x2="1738.0" y2="928.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="1722.0" y="924.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">27</text>
+<text x="1711.0" y="931.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">A2</text>
+<polygon points="1738.0,928.0 1745.0,921.0 1763.8,921.0 1763.8,935.0 1745.0,935.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1747.5" y="931.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">A2</text>
+<line x1="1716.0" y1="949.0" x2="1738.0" y2="949.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="1722.0" y="945.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">26</text>
+<text x="1711.0" y="952.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">A1</text>
+<polygon points="1738.0,949.0 1745.0,942.0 1763.8,942.0 1763.8,956.0 1745.0,956.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1747.5" y="952.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">A1</text>
+<line x1="1716.0" y1="970.0" x2="1738.0" y2="970.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="1722.0" y="966.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">25</text>
+<text x="1711.0" y="973.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">A0</text>
+<polygon points="1738.0,970.0 1745.0,963.0 1763.8,963.0 1763.8,977.0 1745.0,977.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1747.5" y="973.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">A0</text>
+<text x="1510.0" y="1010.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.2" fill="#6B7280" font-weight="400" text-anchor="start">仅画被使用的引脚：PA4/5/6 = 软件 SPI，PA1 = 静音，</text>
+<text x="1510.0" y="1023.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.2" fill="#6B7280" font-weight="400" text-anchor="start">PA3 / PA2 = 通路选通，PB10 = K歌门控，PA0 = 线控 ADC。</text>
+<rect x="1520.0" y="1050.0" width="120.0" height="80.0" rx="2" fill="#FFFFFF" stroke="#A33A3A" stroke-width="1.3"/>
+<text x="1580.0" y="1035.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="11" fill="#2B2B2B" font-weight="500" text-anchor="middle">OLED1</text>
+<text x="1580.0" y="1047.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="10" fill="#2B2B2B" font-weight="400" text-anchor="middle">IIC-Connector</text>
+<text x="1575.0" y="1096.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.4" fill="#6B7280" font-weight="400" text-anchor="middle">0.96" OLED</text>
+<line x1="1640.0" y1="1066.0" x2="1662.0" y2="1066.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="1646.0" y="1062.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">1</text>
+<text x="1635.0" y="1069.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">GND</text>
+<polygon points="1662.0,1066.0 1669.0,1059.0 1694.2,1059.0 1694.2,1073.0 1669.0,1073.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1671.5" y="1069.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">GND</text>
+<line x1="1640.0" y1="1082.0" x2="1662.0" y2="1082.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="1646.0" y="1078.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">2</text>
+<text x="1635.0" y="1085.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">VCC</text>
+<polygon points="1662.0,1082.0 1669.0,1075.0 1707.0,1075.0 1707.0,1089.0 1669.0,1089.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1671.5" y="1085.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">+3.3V</text>
+<line x1="1640.0" y1="1098.0" x2="1662.0" y2="1098.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="1646.0" y="1094.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">3</text>
+<text x="1635.0" y="1101.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">SCL</text>
+<polygon points="1662.0,1098.0 1669.0,1091.0 1687.8,1091.0 1687.8,1105.0 1669.0,1105.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1671.5" y="1101.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">B8</text>
+<line x1="1640.0" y1="1114.0" x2="1662.0" y2="1114.0" stroke="#A33A3A" stroke-width="1.1"/>
+<text x="1646.0" y="1110.5" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.5" fill="#B04A4A" font-weight="400" text-anchor="middle">4</text>
+<text x="1635.0" y="1117.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.8" fill="#1F4E9C" font-weight="400" text-anchor="end">SDA</text>
+<polygon points="1662.0,1114.0 1669.0,1107.0 1687.8,1107.0 1687.8,1121.0 1669.0,1121.0" fill="#EAF1FB" stroke="#1F4E9C" stroke-width="1.0"/>
+<text x="1671.5" y="1117.4" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" fill="#1F4E9C" font-weight="400" text-anchor="start">B9</text>
+<text x="1510.0" y="1146.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.2" fill="#6B7280" font-weight="400" text-anchor="start">OLED 仅显示音量 / 模式 / 静音，状态变化才刷新。</text>
+<rect x="40.0" y="1170.0" width="1750.0" height="50.0" rx="4" fill="#F7F9FC" stroke="#C9CDD4" stroke-width="1.0"/>
+<text x="60.0" y="1194.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="12.5" fill="#12325F" font-weight="500" text-anchor="start">基于 STM32F103 的线控耳机音响系统 · 原理图（按原图整理重绘）</text>
+<text x="1770.0" y="1194.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="9" fill="#6B7280" font-weight="400" text-anchor="end">Sheet 1/1   整理重绘版</text>
+<text x="60.0" y="1211.0" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="8.4" fill="#6B7280" font-weight="400" text-anchor="start">绿色 = 信号线　红色 = 器件　蓝色 = 引脚名 / 网络名　† = 原图不清晰处按信号流推断</text>
+</svg>

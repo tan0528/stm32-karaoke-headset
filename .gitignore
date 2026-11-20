@@ -1,0 +1,21 @@
+# 构建产物
+build/
+*.o
+*.obj
+*.exe
+
+# 仿真中间数据（可由 make demo 重新生成）
+out/
+*.raw
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
